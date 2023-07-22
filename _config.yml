@@ -127,6 +127,9 @@ footer:
     - label: Proz # Label
       icon: fas fa-globe-europe # Fontawesome 5 icon
       url: https://www.proz.com/translator/3638879 # A link or email: https://twitter.com/jack, mail@example.com
+    - label: Instagram
+      icon: fab fa-instagram
+      url: https://www.instagram.com/glgtraducciones
     - label: Email
       icon: far fa-envelope
       url: german@glgt.es
@@ -143,7 +146,7 @@ chulapa-skin:
   skin: chulapa # Optional predefined skins
   autothemer: true # Bool: Use autotheming
   vars:
-    primary: "#1f82bd" #default ["#007bff"] - Bootstrap blue
+    primary: "#22272e" #default ["#007bff"] - Bootstrap blue
 
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
