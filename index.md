@@ -7,6 +7,10 @@ subtitle: Traductor, subtitulador y redactor EN, PT > ES
 
 ![GLGT_Logo](/assets/images/glgt_logo.svg)
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 # ¡Hola! Hello! Olá!
 
 Me llamo Germán y soy traductor de inglés y portugués a español. Me avalan más de siete años de experiencia en empresas y estoy especializado en textos informáticos, técnicos, de turismo y sobre educación.
