@@ -13,3 +13,7 @@ input {
 p {
   font-size: $psize;
 }
+
+img[alt=GLGT_Logo] {
+  max-width: 60%;
+}
