@@ -135,7 +135,7 @@ footer:
 # C. Theme Settings
 # Google Fonts https://fonts.google.com/, add as many as you need
 googlefonts:
-  # - url : # 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap'
+  - url : 'https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700;900&display=swap'
 
 # Theme and colors
 chulapa-skin:
