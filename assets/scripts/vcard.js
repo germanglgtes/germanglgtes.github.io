@@ -5,7 +5,7 @@ document.querySelector("input").addEventListener("click", function () {
     web: "www.glgt.es"
   };
   // create a vcard file
-  var vcard = "BEGIN:VCARD\nVERSION:4.0\nFN:" + contact.name + "\nURL:" + contact.web + "\nEMAIL:" + contact.email + "\nEND:VCARD";
+  var vcard = "BEGIN:VCARD\nVERSION:4.0\nFN:" + contact.name + "\nURL:" + contact.web + "\nEMAIL;TYPE=work:" + contact.email + "\nEND:VCARD";
   var blob = new Blob([vcard], { type: "text/vcard" });
   var url = URL.createObjectURL(blob);
   
