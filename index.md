@@ -23,4 +23,4 @@ No dudes en ponerte en contacto conmigo para comunicarme tus dudas o inquietudes
 
 <p style="text-align:center; font-weight:bold;">Escanea este QR para guardar mi contacto:</p>
 
-<input type="image" id="GLGT_vCARD" alt="GLGT_vCARD" src="/assets/images/qr_german_sin_telefono.svg" />
+<p style="text-align:center;"><input type="image" id="GLGT_vCARD" alt="GLGT_vCARD" style="max-width: 35%;" src="/assets/images/qr_german_sin_telefono.svg" /></p>
