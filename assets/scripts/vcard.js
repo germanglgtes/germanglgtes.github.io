@@ -1,6 +1,5 @@
 document.querySelector("input").addEventListener("click", function () {
-  var vcard = `
-BEGIN:VCARD
+  var vcard = `BEGIN:VCARD
 VERSION:4.0
 FN:Germán Carlos López Gargallo
 URL:german@glgt.es
