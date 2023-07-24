@@ -21,6 +21,6 @@ No dudes en ponerte en contacto conmigo para comunicarme tus dudas o inquietudes
 
 &nbsp;
 
-<p style="text-align:center; font-weight:bold;">Escanea este QR para guardar mi contacto</p>
+<p style="text-align:center; font-weight:bold;">Escanea este QR para guardar mi contacto:</p>
 
 ![GLGT_vCARD](/assets/images/qr_german_sin_telefono.svg)
